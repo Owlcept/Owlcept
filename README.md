@@ -7,7 +7,7 @@
 ---
 Currently working on 
 
-![Static Badge](https://img.shields.io/badge/Table-Wrapper-AD343E?style=for-the-badge&labelColor=0C120C)
+Learning React/Typescript and OpenSource contribution over at ActivePieces!
 
 Want to get in contact? Email me -> owlcept@owlcept.com
 
